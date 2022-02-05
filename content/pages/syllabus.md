@@ -80,11 +80,48 @@ Grading Policy
 
 There will be two 90-minute in-class exams and one individual project, and homeworks.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Examination | 25% for each (50% for total) |
-| Homework | 25% |
-| Project | 25% (including Project Reports and Project Presentations) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Examination
+{{< tdclose >}}
+{{< tdopen >}}
+25% for each (50% for total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+25% (including Project Reports and Project Presentations)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Textbook
 ---------------
