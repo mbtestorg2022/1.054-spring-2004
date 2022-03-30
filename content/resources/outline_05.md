@@ -4,6 +4,7 @@ description: Outline 5. This handout contains an outline of topics covered in co
   lectures.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/90877f43bc29de3df0f3b34fda49b5a2_Outline_05.pdf
 file_type: application/pdf
+parent_uid: d7468ce0-2ce7-e574-0805-a13f07aefc56
 resourcetype: Document
 title: Outline_05.pdf
 uid: 90877f43-bc29-de3d-f0f3-b34fda49b5a2

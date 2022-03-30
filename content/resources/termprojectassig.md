@@ -8,6 +8,7 @@ description: 'This document provides the term project assignment for Spring 2004
   development upon which current design practices are based.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/3bfc6fd6e47a9f20342e2aa445a3f46e_termprojectassig.pdf
 file_type: application/pdf
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: termprojectassig.pdf
 uid: 3bfc6fd6-e47a-9f20-342e-2aa445a3f46e

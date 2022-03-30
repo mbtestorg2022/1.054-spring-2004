@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/e2308c53353e2e9ff99e673502be03c5_nfnlrprt_adr_sct.pdf
 file_type: application/pdf
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: nfnlrprt_adr_sct.pdf
 uid: e2308c53-353e-2e9f-f99e-673502be03c5
