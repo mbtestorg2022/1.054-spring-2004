@@ -7,6 +7,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_boston.jpg
 uid: 4e9f9968-0d56-48fc-c7e6-c02cc9898940
